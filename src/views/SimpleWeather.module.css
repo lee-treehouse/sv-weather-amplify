@@ -9,3 +9,9 @@
 .error {
   color: red;
 }
+
+.footer 
+{
+  color: darkgrey;
+  margin-top: 0.5em;
+}

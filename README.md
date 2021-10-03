@@ -2,7 +2,7 @@
 
 This project has been developed by Lee Taylor as a coding exercise for Service Victoria.
 
-You can run it locally, deploy it, or view it here: [https://nervous-hawking-c68eca.netlify.app/](https://nervous-hawking-c68eca.netlify.app/)
+You can run it locally, deploy it, or view it here: [https://master.d3h0q80evii4pn.amplifyapp.com/](https://master.d3h0q80evii4pn.amplifyapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -60,6 +60,7 @@ const SimpleWeather = () => {
           )}
         </>
       )}
+      <div className={styles.footer}>Hosted on AWS Amplify</div>
     </div>
   );
 };
