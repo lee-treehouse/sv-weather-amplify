@@ -1,0 +1,9 @@
+.section {
+  padding-top: 0.6em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #38a3a5;
+}
+
+.list {
+  line-height: 1.2;
+}

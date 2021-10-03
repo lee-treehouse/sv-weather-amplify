@@ -1,0 +1,9 @@
+body {
+  margin: 0 auto;
+  padding: 0em 1em;
+  max-width: 50em;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 1em;
+  line-height: 1;
+  color: #444;
+}

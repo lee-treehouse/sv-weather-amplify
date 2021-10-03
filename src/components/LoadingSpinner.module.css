@@ -1,0 +1,43 @@
+.item {
+  padding-top: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.text {
+  padding-top: 30px;
+  font-size: 140%;
+  font-weight: bold;
+  color: #38a3a5;
+}
+
+/* 
+css loader from https://loading.io/css/
+*/
+
+.ldsDualRing {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+}
+
+.ldsDualRing:after {
+  content: " ";
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 6px solid #38a3a5;
+  border-color: #38a3a5 transparent #38a3a5 transparent;
+  animation: ldsDualRing 1.2s linear infinite;
+}
+
+@keyframes ldsDualRing {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

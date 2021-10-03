@@ -1,0 +1,9 @@
+.name {
+  font-size: 125%;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.container {
+  margin-bottom: 0.5em;
+}

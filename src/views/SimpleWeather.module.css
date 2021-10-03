@@ -1,0 +1,11 @@
+.mainHeader {
+  margin-bottom: 0.5em;
+}
+
+.mainHeader svg {
+  color: #38a3a5;
+}
+
+.error {
+  color: red;
+}

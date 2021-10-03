@@ -1,0 +1,51 @@
+.container {
+  width: 100%;
+  background: linear-gradient(to bottom, #38a3a5 0%, #fff 100%);
+  border: 1px solid #38a3a5;
+  line-height: 1.2;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media screen and (min-width: 481px) {
+  .container {
+    flex-direction: row;
+    padding-bottom: 5px;
+  }
+}
+
+.mainContainer {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.temperatureContainer {
+  display: flex;
+  flex-direction: column;
+  padding-right: 5px;
+}
+
+.current {
+  font-size: 400%;
+  font-weight: 300;
+  text-align: center;
+}
+
+.feelsLike {
+  font-size: 115%;
+  text-align: center;
+}
+
+.description {
+  font-size: 125%;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+}
