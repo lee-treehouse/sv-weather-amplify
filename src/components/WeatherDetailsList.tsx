@@ -24,12 +24,12 @@ const WeatherDetailsList = ({ weatherData }: { weatherData: WeatherData }) => {
           title="Pressure"
           value={weatherData.main.pressure}
           suffix="hPa"
-          icon={WiHumidity}
+          icon={WiBarometer}
         />
         <WeatherDetailItem
           title="Humidity"
           value={`${weatherData.main.humidity}%`}
-          icon={WiBarometer}
+          icon={WiHumidity}
         />
       </div>
       <div className={styles.section}>
