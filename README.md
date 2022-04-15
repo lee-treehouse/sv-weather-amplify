@@ -1,6 +1,6 @@
 # About Simple Weather
 
-This project has been developed by Lee Taylor as a coding exercise for Service Victoria.
+This project has been developed by Lee Treehouse as a coding exercise for Service Victoria.
 
 You can run it locally, deploy it, or view it here: https://master.dgrl4cfzezsv0.amplifyapp.com/
 
